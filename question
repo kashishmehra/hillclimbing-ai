@@ -1,0 +1,7 @@
+Q1. Use steepest hill climbing algorithm to reach the goal state of 8 puzzle problem. 
+Randomly initialize at least 5 different start states. Use number of missmatches as heuritic functions. 
+Print all the intermediate states of the best solution. Avoid invalid moves and do not visit a state if it is already visited.
+ Final Output
+ 1  2 3
+ 8    4
+ 7  6 5
